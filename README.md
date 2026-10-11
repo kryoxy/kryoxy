@@ -1,58 +1,92 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Adithyan and I'm a Developer, from India</h2>
+<!-- Replace every kryoxy with your GitHub username. -->
 
-###
+<div align="center">
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/MrCrazyBoyYT/MrCrazyBoyYT/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/MrCrazyBoyYT/MrCrazyBoyYT/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Kryo&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=ᴄʟᴇᴀɴ%20%26%20ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ&descSize=18&descAlignY=60" alt="header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Kryo+%F0%9F%91%8B;Building+scalable%2C+efficient+%26+clean+code;Discord+bots+%7C+APIs+%7C+Automation;Always+learning%2C+always+growing" alt="typing intro" />
+</a>
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=kryoxy&label=Profile%20views&color=1f6feb&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/kryoxy?style=for-the-badge&logo=github&color=0d1117&labelColor=161b22)
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-site.com)
+[![Instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_handle)
+[![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+
 </div>
 
-###
+---
 
-<img data-importer="image" align="right" height="150" src="https://ik.imagekit.io/MrCrazyBoyYT/mrcrazyboyyt"  />
+## 👨‍💻 About Me
 
-###
+```js
+const kryo = {
+  role: "Developer",
+  focus: ["Discord bots", "Node.js APIs", "Automation"],
+  currentlyLearning: ["System design", "TypeScript", "Databases"],
+  philosophy: "Write code that's clean enough to explain itself.",
+  funFact: "I debug with console.log and I'm not ashamed.",
+};
+```
 
-<div data-importer="socials" align="left">
-  <a href="https://www.instagram.com/__.4dhii.404/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/__.4dhii.404/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/e4hpdeMvtV" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+---
+
+## ⚒️ Tech Stack ⚒️
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,vscode,discord&theme=dark" alt="tech stack" />
+
 </div>
 
-###
+---
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+## 🐍 My Contributions 🐍
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kryoxy/kryoxy/output/github-snake-dark.svg" alt="snake eating my contributions" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+## ⚡ GitHub Stats ⚡
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/MrCrazyBoyYT/MrCrazyBoyYT/refs/heads/output/github-snake-dark.svg" alt="Snake animation" />
+<div align="center">
 
-###
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kryoxy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kryoxy&theme=tokyonight&hide_border=true" alt="streak" />
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kryoxy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+
 </div>
 
-###
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| 🤖 **Luna** | Short one-line description of what it does | `discord.js` `Node.js` |
+| 🛠️ **Your Tool Name** | Short one-line description of what it does | `JavaScript` |
+| 🌐 **Your Website** | Short one-line description of what it does | `HTML` `CSS` `JS` |
+
+---
+
+## 🤝 Let's Connect
+
+Open to collaborations, feedback, and interesting side projects. If you have an idea, reach out.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" alt="footer" />
+
+</div>
