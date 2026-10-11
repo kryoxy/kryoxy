@@ -75,9 +75,9 @@ const kryo = {
 
 | Project | Description | Stack |
 | :-- | :-- | :-- |
-| 🤖 **Luna** | Short one-line description of what it does | `discord.js` `Node.js` |
-| 🛠️ **Your Tool Name** | Short one-line description of what it does | `JavaScript` |
-| 🌐 **Your Website** | Short one-line description of what it does | `HTML` `CSS` `JS` |
+| 🤖 **Luna** | Multi-feature Discord bot with slash commands, moderation and fun utilities. | `discord.js` `Node.js` |
+| 🛠️ **Soon** | 404 | `JavaScript` |
+| 🌐 **Portfolio** | Comming Soon | `HTML` `CSS` `JS` |
 
 ---
 
