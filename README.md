@@ -10,7 +10,7 @@
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=kryoxy&label=Profile%20views&color=1f6feb&style=for-the-badge)
+![Profile views](https://hits.sh/github.com/kryoxy.svg?style=for-the-badge&label=Profile%20views&color=1f6feb)
 ![Followers](https://img.shields.io/github/followers/kryoxy?style=for-the-badge&logo=github&color=0d1117&labelColor=161b22)
 
 <br/>
