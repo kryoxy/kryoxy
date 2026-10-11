@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Kryo&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=ᴄʟᴇᴀɴ%20%26%20ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ&descSize=18&descAlignY=60" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Kryo&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Clean%20and%20Professional&descSize=18&descAlignY=60" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Kryo+%F0%9F%91%8B;Building+scalable%2C+efficient+%26+clean+code;Discord+bots+%7C+APIs+%7C+Automation;Always+learning%2C+always+growing" alt="typing intro" />
