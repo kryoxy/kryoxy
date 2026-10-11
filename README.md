@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/MrCrazyBoyYT/MrCrazyBoyYT/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/MrCrazyBoyYT/MrCrazyBoyYT/refs/heads/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
 
