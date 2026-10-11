@@ -77,7 +77,7 @@ const kryo = {
 | :-- | :-- | :-- |
 | 🤖 **Luna** | Multi-feature Discord bot with slash commands, moderation and fun utilities. | `discord.js` `Node.js` |
 | 🛠️ **Soon** | 404 | `JavaScript` |
-| 🌐 **Portfolio** | Comming Soon | `HTML` `CSS` `JS` |
+| 🌐 **Portfolio** | https://kryo.zone.id/ | `HTML` `CSS` `JS` |
 
 ---
 
