@@ -1,5 +1,3 @@
-<!-- Replace every kryoxy with your GitHub username. -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Kryo&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Clean%20and%20Professional&descSize=18&descAlignY=60" alt="header" />
@@ -48,11 +46,15 @@ const kryo = {
 
 ---
 
-## 🐍 My Contributions 🐍
+## 👻 My Contributions 👻
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kryoxy/kryoxy/output/github-snake-dark.svg" alt="snake eating my contributions" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kryoxy/kryoxy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kryoxy/kryoxy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kryoxy/kryoxy/output/pacman-contribution-graph-dark.svg">
+</picture>
 
 </div>
 
